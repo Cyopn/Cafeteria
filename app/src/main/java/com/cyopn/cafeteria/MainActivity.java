@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         cn = c.getConnect();
         setContentView(R.layout.activity_main);
-
     }
 
     public void onClicContine(View v) {
